@@ -8,6 +8,6 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SatvikVejendla)
 
-- 🔭 I’m currently working on Python AI.
-- 🌱 I’m currently learning "Unsupervised Learning" and "Reinforcement Learning" with QLearning.
+- 🔭 I’m currently working on creating AI models with Python.
+- 🌱 I’m currently learning Data Science.
 - 📫 How to reach me: satvej1@gmail.com or vejendla.kivtas@gmail.com
